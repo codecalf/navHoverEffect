@@ -1,0 +1,2 @@
+body,html{width:100vw;height:100vh;margin:0;padding:0}nav{position:relative}nav ul{list-style:none;display:flex;flex-direction:row}nav ul li{margin:0 1rem}nav ul li a{color:#000;text-decoration:none}nav span{position:absolute;bottom:0;left:10px;height:2px;width:20px;transition:width .23s ease,left .23s ease;background:#000}
+/*# sourceMappingURL=main.min.css.map */
